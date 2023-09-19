@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'D:/java/javalearn/maven-test/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/java/javalearn/maven-test/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'maven-test 0.0.1-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'maven-test 0.0.1-SNAPSHOT API'
+io.github.kawuwa.maven_test
+D:\java\javalearn\maven-test\src\main\java = 1695021119418
+D:\java\javalearn\maven-test\target\apidocs\allclasses-index.html = 1695026631792
+D:\java\javalearn\maven-test\target\apidocs\allpackages-index.html = 1695026631795
+D:\java\javalearn\maven-test\target\apidocs\copy.svg = 1695026631839
+D:\java\javalearn\maven-test\target\apidocs\element-list = 1695026631726
+D:\java\javalearn\maven-test\target\apidocs\help-doc.html = 1695026631827
+D:\java\javalearn\maven-test\target\apidocs\index-all.html = 1695026631813
+D:\java\javalearn\maven-test\target\apidocs\index.html = 1695026631819
+D:\java\javalearn\maven-test\target\apidocs\member-search-index.js = 1695026631802
+D:\java\javalearn\maven-test\target\apidocs\module-search-index.js = 1695026631797
+D:\java\javalearn\maven-test\target\apidocs\overview-tree.html = 1695026631775
+D:\java\javalearn\maven-test\target\apidocs\package-search-index.js = 1695026631799
+D:\java\javalearn\maven-test\target\apidocs\script.js = 1695026631835
+D:\java\javalearn\maven-test\target\apidocs\search-page.js = 1695026631847
+D:\java\javalearn\maven-test\target\apidocs\search.html = 1695026631816
+D:\java\javalearn\maven-test\target\apidocs\search.js = 1695026631844
+D:\java\javalearn\maven-test\target\apidocs\stylesheet.css = 1695026631832
+D:\java\javalearn\maven-test\target\apidocs\tag-search-index.js = 1695026631803
+D:\java\javalearn\maven-test\target\apidocs\type-search-index.js = 1695026631801

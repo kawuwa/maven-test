@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"io.github.kawuwa.maven_test","c":"App","l":"App()","u":"%3Cinit%3E()"},{"p":"io.github.kawuwa.maven_test","c":"App","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
